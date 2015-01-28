@@ -1,7 +1,12 @@
-Blandx
+Blandx (Deprecated)
 ======
 
 PB's Directory Parser
+
+Development: Deprecated
+
+Start Date: Summer 2014
+End Date: Summer 2014
 
 ## Why?
 
