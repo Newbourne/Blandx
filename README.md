@@ -4,7 +4,7 @@ Blandx
 PB's Directory Parser
 
 
-== Why?
+## Why?
 
 My dad has a ton of files stored and he wanted a way to find all the duplicates to free up some space. This should really be a simple script to iterate the through a directory tree and return the duplicates. I (as always) want to get more involved with C++ development. I was researching boost libraries at the time and decided to give it a shot.
 
