@@ -18,4 +18,4 @@ Given a directory the application will parse through the entire tree and capture
 
 We parse a directory tree and store all filenames in memory. We then use a merge sort to order the filenames in a list. Once we have the filenames sorted in a list we iterate over the names and look for duplicates.
 
-I'll be the first to tell you that this isn't the most efficient way to do this. The only dependecy I wanted was boost the libraries. The application performed well for needs.
+I'll be the first to tell you that this isn't the most efficient way to do this. The only dependecy I wanted was the boost libraries. The application performed well for needs.
